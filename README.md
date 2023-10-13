@@ -1,1 +1,3 @@
-# catchat
+# Catchat
+
+> Chat for cats

@@ -1,0 +1,8 @@
+# venv
+venv/
+
+# open ai
+schema.yml
+
+# database
+database.db
